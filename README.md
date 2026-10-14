@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there, I'm thetricyrtis👋
 
-<!--
-**thetricyrtis/thetricyrtis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building tools I actually use — plugins, TUI apps, stuff like that. Mostly Turkish-focused. 
+> AI-Assisted Coding & Open Source Contribution
 
-Here are some ideas to get you started:
+## 💻Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**OS:** GNU/Linux - CachyOS
+
+**Shell:** Fish Shell
+
+**Editor:**  Micro or Zed-Editor
+
