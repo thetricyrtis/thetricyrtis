@@ -3,7 +3,7 @@
 Building tools I actually use — plugins, TUI apps, stuff like that. Mostly Turkish-focused. 
 > AI-Assisted Coding & Open Source Contribution
 
-## 💻Tech Stack
+## 💻 Tech Stack
 
 **OS:** GNU/Linux - CachyOS
 
