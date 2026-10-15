@@ -7,7 +7,9 @@ Building tools I actually use — plugins, TUI apps, stuff like that. Mostly Tur
 
 **OS:** GNU/Linux - CachyOS
 
+**Terminal:** Kitty
+
 **Shell:** Fish Shell
 
-**Editor:**  Micro or Zed-Editor
+**Editor:**  Micro and Zed-Editor
 
