@@ -35,4 +35,3 @@ Building tools I actually use — plugins, TUI apps, stuff like that. Mostly Tur
     <img src="https://img.shields.io/badge/Lemmy-FF4500?style=for-the-badge&logo=lemmy&logoColor=white" alt="Lemmy" height="30">
   </a>
 </p>
----
