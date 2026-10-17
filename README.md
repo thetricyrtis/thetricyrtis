@@ -13,5 +13,5 @@ Building tools I actually use — plugins, TUI apps, stuff like that. Mostly Tur
 
 **Shell:** Fish Shell
 
-**Editor:**  Micro and Zed-Editor
+**Editor:**  Micro and Zed Editor
 
