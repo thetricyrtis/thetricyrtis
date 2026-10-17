@@ -1,4 +1,4 @@
-## Hi there, I'm thetricyrtis👋
+## Hi there, I'm thetricyrtis🐙
 
 Building tools I actually use — plugins, TUI apps, stuff like that. Mostly Turkish-focused. 
 
@@ -9,6 +9,11 @@ Building tools I actually use — plugins, TUI apps, stuff like that. Mostly Tur
 - 🚀 New to GitHub & eager to learn
 
 > AI-Assisted Coding & Open Source Contribution
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thetricyrtis&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thetricyrtis&layout=compact&theme=dark&hide_border=true" alt="Top Langs" height="150">
+</p>
 
 ## 💻 Tech Stack
 
@@ -35,3 +40,7 @@ Building tools I actually use — plugins, TUI apps, stuff like that. Mostly Tur
     <img src="https://img.shields.io/badge/Lemmy-FF4500?style=for-the-badge&logo=lemmy&logoColor=white" alt="Lemmy" height="30">
   </a>
 </p>
+
+<p align="left">
+     <img src="https://komarev.com/ghpvc/?username=thetricyrtis&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+   </p>
