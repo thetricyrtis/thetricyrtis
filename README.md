@@ -1,6 +1,6 @@
 ## Hi there, I'm thetricyrtis🐙
 
-Building tools I actually use — plugins, TUI apps, stuff like that. Mostly Turkish-focused. 
+Building tools I actually use — plugins, TUI apps, stuff like that.
 
 ## 👤 About Me
 
