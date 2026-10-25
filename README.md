@@ -1,4 +1,4 @@
-## Hi there, I'm thetricyrtis🐙
+## Yō, I'm thetricyrtis 🐙
 
 Building tools I actually use — plugins, TUI apps, stuff like that.
 
