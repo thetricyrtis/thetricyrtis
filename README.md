@@ -23,8 +23,8 @@ Building tools I actually use — plugins, TUI apps, stuff like that.
 **Editor:**  Micro and Zed Editor
 
 ## 🛠️ Projects
-- [oxid-anime](https://github.com/thetricyrtis/oxid-anime) — Rust ile TUI anime izleyici
-- [personal-lnreader-plugins](https://github.com/thetricyrtis/personal-lnreader-plugins) — LNReader için Türkçe eklentiler
+- [oxid-anime](https://github.com/thetricyrtis/oxid-anime) — A TUI anime watching app built with Rust
+- [personal-lnreader-plugins](https://github.com/thetricyrtis/personal-lnreader-plugins) — Turkish light novel plugins for LNReader
 
 ## 🔗 Socials
 
