@@ -2,7 +2,9 @@
 
 I write code because I want things to work the way I think they should.
 
-Right now, that means learning Rust and building tools I actually use. I started `oxid-anime` because I wanted a terminal anime app that didn't feel like a compromise. I'm figuring out GitHub as I go, but I'm not afraid to break things and learn from it.
+Right now, that means learning Rust and building tools I actually use. I started `oxid-anime` because I wanted a terminal anime app that didn't feel like a compromise.
+
+I'm figuring out GitHub as I go, but I'm not afraid to break things and learn from it.
 
 > AI helps me write faster. I make sure it works.
 
