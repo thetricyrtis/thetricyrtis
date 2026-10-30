@@ -1,8 +1,8 @@
 ## Yō, I'm thetricyrtis 🐙
 
-Hi. I'm a high school student. I write code because I want things to work the way I think they should.
+Hi. I'm a high school student. I learning rust and I write code because I want things to work the way I think they should.
 
-Right now, that means learning Rust and building tools I actually use. I started `oxid-anime` because I wanted a terminal anime app that didn't feel like a compromise.
+Right now, that means building tools I actually use. I started `oxid-anime` because I wanted a terminal anime app that didn't feel like a compromise.
 
 I'm figuring out GitHub as I go, but I'm not afraid to break things and learn from it.
 
