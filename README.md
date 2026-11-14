@@ -1,9 +1,6 @@
-## Yō, I'm thetricyrtis 🐙
+## Yō, I'm Tricyrtis 🐙
 
 Hi. I'm a high school student. I'm learning rust and I write code because I want things to work the way I think they should.
-
-Right now, that means building tools I actually use. I started `oxid-anime` because I wanted a terminal anime app that didn't feel like a compromise.
-
 I'm figuring out GitHub as I go, but I'm not afraid to break things and learn from it.
 
 > AI helps me write faster. I make sure it works.
@@ -11,17 +8,15 @@ I'm figuring out GitHub as I go, but I'm not afraid to break things and learn fr
 ## 💻 Setup
 
 **OS:** CachyOS  
-**WM:** Niri  
-**Terminal:** Kitty  
-**Shell:** Fish  
+**WM:** Niri   
 **Editor:** Micro & Zed
 
-## 🛠️ Projects
+## 🛠️ My Projects
 
 - [oxid-anime](https://github.com/thetricyrtis/oxid-anime) — A TUI anime watching app built with Rust
 - [personal-lnreader-plugins](https://github.com/thetricyrtis/personal-lnreader-plugins) — Turkish light novel plugins for LNReader
 
-## 🔗 Socials
+## 🔗 Socials Links
 
 <p align="left">
   <a href="https://github.com/thetricyrtis" target="_blank">
