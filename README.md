@@ -16,7 +16,7 @@ I'm figuring out GitHub as I go, but I'm not afraid to break things and learn fr
 - [oxid-anime](https://github.com/thetricyrtis/oxid-anime) — A TUI anime watching app built with Rust
 - [personal-lnreader-plugins](https://github.com/thetricyrtis/personal-lnreader-plugins) — Turkish light novel plugins for LNReader
 
-## 🔗 Socials Links
+## 🔗 Social Links
 
 <p align="left">
   <a href="https://github.com/thetricyrtis" target="_blank">
