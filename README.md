@@ -1,9 +1,10 @@
 ## Yō, I'm Tricyrtis 🐙
 
-Hi. I'm a high school student. I'm learning rust and I write code because I want things to work the way I think they should.
-I'm figuring out GitHub as I go, but I'm not afraid to break things and learn from it.
+Hi. I'm a high school student learning Rust and forcing things to work *my* way.
 
-> AI helps me write faster. I make sure it works.
+Zero fear of breaking stuff.
+
+Mostly AI-assisted. It writes the code fast, I just make sure it survives.
 
 ## 💻 Setup
 
